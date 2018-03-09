@@ -55,7 +55,7 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Calculator\Project.csproj">
+    <ProjectReference Include="..\Project\Project.csproj">
       <Project>{d2ff522d-5440-4970-8e85-67d49b780e22}</Project>
       <Name>Project</Name>
     </ProjectReference>
